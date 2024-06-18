@@ -1,0 +1,115 @@
+@-moz-document domain("lichess.org") {
+.is2d .white.pawn,
+      .cg-wrap.orientation-black .black.pawn,
+      .pocket-bottom piece.black.pawn,
+      .spare-bottom piece.black.pawn {
+  background-image: url("")!important;
+}
+
+.is2d .white.knight,
+      .cg-wrap.orientation-black .black.knight,
+      .pocket-bottom piece.black.knight,
+      .spare-bottom piece.black.knight {
+  background-image: url("")!important;
+}
+
+.is2d .white.bishop,
+      .cg-wrap.orientation-black .black.bishop,
+      .pocket-bottom piece.black.bishop,
+      .spare-bottom piece.black.bishop {
+  background-image: url("")!important;
+}
+
+.is2d .white.rook,
+      .cg-wrap.orientation-black .black.rook,
+      .pocket-bottom piece.black.rook,
+      .spare-bottom piece.black.rook {
+  background-image: url("")!important;
+}
+
+.is2d .white.queen,
+      .cg-wrap.orientation-black .black.queen,
+      .pocket-bottom piece.black.queen,
+      .spare-bottom piece.black.queen {
+  background-image: url("")!important;
+}
+
+.is2d .white.king {
+  background-image: url("")!important;
+}
+.cg-wrap.orientation-black .white.king,
+.spare-top piece.white.king {
+    background-image:url("")!important;
+}
+
+.is2d .black.pawn,
+      .cg-wrap.orientation-black .white.pawn,
+      .pocket-top piece.white.pawn,
+      .spare-top piece.white.pawn {
+  background-image: url("")!important;
+}
+
+.is2d .black.knight,
+      .cg-wrap.orientation-black .white.knight,
+      .pocket-top piece.white.knight,
+      .spare-top piece.white.knight {
+  background-image: url("")!important;
+}
+
+.is2d .black.bishop,
+      .cg-wrap.orientation-black .white.bishop,
+      .pocket-top piece.white.bishop,
+      .spare-top piece.white.bishop {
+  background-image: url("")!important;
+}
+
+.is2d .black.rook,
+      .cg-wrap.orientation-black .white.rook,
+      .pocket-top piece.white.rook,
+      .spare-top piece.white.rook {
+  background-image: url("")!important;
+}
+
+.is2d .black.queen,
+      .cg-wrap.orientation-black .white.queen,
+      .pocket-top piece.white.queen,
+      .spare-top piece.white.queen {
+  background-image: url("")!important;
+}
+
+.is2d .black.king {
+  background-image: url("")!important;
+}
+.cg-wrap.orientation-black .black.king,
+.spare-bottom piece.black.king {
+    background-image:url("")!important;
+}
+
+body[data-board=brown] .is2d cg-board::before,
+body[data-board=wood] .is2d cg-board::before,
+body[data-board=wood2] .is2d cg-board::before,
+body[data-board=wood3] .is2d cg-board::before,
+body[data-board=wood4] .is2d cg-board::before,
+body[data-board=maple] .is2d cg-board::before,
+body[data-board=maple2] .is2d cg-board::before,
+body[data-board=horsey] .is2d cg-board::before,
+body[data-board=leather] .is2d cg-board::before,
+body[data-board=blue] .is2d cg-board::before,
+body[data-board=blue2] .is2d cg-board::before,
+body[data-board=blue3] .is2d cg-board::before,
+body[data-board=canvas] .is2d cg-board::before,
+body[data-board=blue-marble] .is2d cg-board::before,
+body[data-board=ic] .is2d cg-board::before,
+body[data-board=green] .is2d cg-board::before,
+body[data-board=marble] .is2d cg-board::before,
+body[data-board=green-plastic] .is2d cg-board::before,
+body[data-board=olive] .is2d cg-board::before,
+body[data-board=grey] .is2d cg-board::before,
+body[data-board=metal] .is2d cg-board::before,
+body[data-board=newspaper] .is2d cg-board::before,
+body[data-board=purple] .is2d cg-board::before,
+body[data-board=purple-diag] .is2d cg-board::before,
+body[data-board=pink] .is2d cg-board::before {
+  background-image: url("")!important;
+}
+}
