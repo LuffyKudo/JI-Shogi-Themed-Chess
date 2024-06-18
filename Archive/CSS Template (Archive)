@@ -1,0 +1,92 @@
+.is2d .white.pawn,
+      .cg-wrap.orientation-black .black.pawn {
+  background-image: url("")!important;
+}
+
+.is2d .white.knight,
+      .cg-wrap.orientation-black .black.knight {
+  background-image: url("")!important;
+}
+
+.is2d .white.bishop,
+      .cg-wrap.orientation-black .black.bishop {
+  background-image: url("")!important;
+}
+
+.is2d .white.rook,
+      .cg-wrap.orientation-black .black.rook {
+  background-image: url("")!important;
+}
+
+.is2d .white.queen,
+      .cg-wrap.orientation-black .black.queen {
+  background-image: url("")!important;
+}
+
+.is2d .white.king {
+  background-image: url("")!important;
+}
+.cg-wrap.orientation-black .white.king {
+    background-image:url("")!important;
+}
+
+.is2d .black.pawn,
+      .cg-wrap.orientation-black .white.pawn {
+  background-image: url("")!important;
+}
+
+.is2d .black.knight,
+      .cg-wrap.orientation-black .white.knight {
+  background-image: url("")!important;
+}
+
+.is2d .black.bishop,
+      .cg-wrap.orientation-black .white.bishop {
+  background-image: url("")!important;
+}
+
+.is2d .black.rook,
+      .cg-wrap.orientation-black .white.rook {
+  background-image: url("")!important;
+}
+
+.is2d .black.queen,
+      .cg-wrap.orientation-black .white.queen {
+  background-image: url("")!important;
+}
+
+.is2d .black.king {
+  background-image: url("")!important;
+}
+.cg-wrap.orientation-black .black.king {
+    background-image:url("")!important;
+}
+
+.blue .is2d cg-board, #top div.color_demo.blue,
+.blue2 .is2d cg-board, #top div.color_demo.blue2,
+.blue3 .is2d cg-board, #top div.color_demo.blue3,
+.blue-marble .is2d cg-board, #top div.color_demo.blue-marble,
+.canvas .is2d cg-board, #top div.color_demo.canvas,
+.wood .is2d cg-board, #top div.color_demo.wood,
+.wood2 .is2d cg-board, #top div.color_demo.wood2,
+.wood3 .is2d cg-board, #top div.color_demo.wood3,
+.wood4 .is2d cg-board, #top div.color_demo.wood4,
+.maple .is2d cg-board, #top div.color_demo.maple,
+.maple2 .is2d cg-board, #top div.color_demo.maple2,
+.brown .is2d cg-board, #top div.color_demo.brown,
+.leather .is2d cg-board, #top div.color_demo.leather,
+.green .is2d cg-board, #top div.color_demo.green,
+.marble .is2d cg-board, #top div.color_demo.marble,
+.green-plastic .is2d cg-board, #top div.color_demo.green-plastic,
+.grey .is2d cg-board, #top div.color_demo.grey,
+.metal .is2d cg-board, #top div.color_demo.metal,
+.olive .is2d cg-board, #top div.color_demo.olive,
+.newspaper .is2d cg-board, #top div.color_demo.newspaper,
+.purple .is2d cg-board, #top div.color_demo.purple,
+.purple-diag .is2d cg-board, #top div.color_demo.purple-diag,
+.pink .is2d cg-board, #top div.color_demo.pink,
+.ic .is2d cg-board, #top div.color_demo.ic,
+.horsey .is2d cg-board, #top div.color_demo.horsey
+{
+  background-image: url("")!important;
+}
