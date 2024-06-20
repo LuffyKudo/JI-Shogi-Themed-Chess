@@ -10,6 +10,6 @@
 You can read more about JI Chess-Themed Shogi including instructions on how to install it at [**JI Shogi-Themed Chess**](https://luffykudo.wordpress.com/2021/04/28/shogi-themed-chess-japanized-western-chess).
 
 ![JI Shogi-Themed Chess (1-Kanji) on Lichess screenshot](https://github.com/LuffyKudo/JI-Shogi-Themed-Chess/blob/main/Lichess%201-Kanji%20Screenshot.jpg)
-![JI Shogi-Themed Chess (2-Kanji) on Lichess screenshot](https://github.com/LuffyKudo/JI-Shogi-Themed-Chess/blob/main/Lichess%202-Kanji%20Screenshot.jpg))
+![JI Shogi-Themed Chess (2-Kanji) on Lichess screenshot](https://github.com/LuffyKudo/JI-Shogi-Themed-Chess/blob/main/Lichess%202-Kanji%20Screenshot.jpg)
 
 *Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lichess.org](https://lichess.org).*
