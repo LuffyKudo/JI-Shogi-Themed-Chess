@@ -6,46 +6,17 @@
   background-image: url("")!important;
 }
 
-.is2d .white.knight,
-      .cg-wrap.orientation-black .black.knight,
-      .pocket-bottom piece.black.knight,
-      .spare-bottom piece.black.knight {
-  background-image: url("")!important;
-}
-
-.is2d .white.bishop,
-      .cg-wrap.orientation-black .black.bishop,
-      .pocket-bottom piece.black.bishop,
-      .spare-bottom piece.black.bishop {
-  background-image: url("")!important;
-}
-
-.is2d .white.rook,
-      .cg-wrap.orientation-black .black.rook,
-      .pocket-bottom piece.black.rook,
-      .spare-bottom piece.black.rook {
-  background-image: url("")!important;
-}
-
-.is2d .white.queen,
-      .cg-wrap.orientation-black .black.queen,
-      .pocket-bottom piece.black.queen,
-      .spare-bottom piece.black.queen {
-  background-image: url("")!important;
-}
-
-.is2d .white.king {
-  background-image: url("")!important;
-}
-.cg-wrap.orientation-black .white.king,
-.spare-top piece.white.king {
-    background-image:url("")!important;
-}
-
 .is2d .black.pawn,
       .cg-wrap.orientation-black .white.pawn,
       .pocket-top piece.white.pawn,
       .spare-top piece.white.pawn {
+  background-image: url("")!important;
+}
+
+.is2d .white.knight,
+      .cg-wrap.orientation-black .black.knight,
+      .pocket-bottom piece.black.knight,
+      .spare-bottom piece.black.knight {
   background-image: url("")!important;
 }
 
@@ -56,10 +27,24 @@
   background-image: url("")!important;
 }
 
+.is2d .white.bishop,
+      .cg-wrap.orientation-black .black.bishop,
+      .pocket-bottom piece.black.bishop,
+      .spare-bottom piece.black.bishop {
+  background-image: url("")!important;
+}
+
 .is2d .black.bishop,
       .cg-wrap.orientation-black .white.bishop,
       .pocket-top piece.white.bishop,
       .spare-top piece.white.bishop {
+  background-image: url("")!important;
+}
+
+.is2d .white.rook,
+      .cg-wrap.orientation-black .black.rook,
+      .pocket-bottom piece.black.rook,
+      .spare-bottom piece.black.rook {
   background-image: url("")!important;
 }
 
@@ -70,11 +55,26 @@
   background-image: url("")!important;
 }
 
+.is2d .white.queen,
+      .cg-wrap.orientation-black .black.queen,
+      .pocket-bottom piece.black.queen,
+      .spare-bottom piece.black.queen {
+  background-image: url("")!important;
+}
+
 .is2d .black.queen,
       .cg-wrap.orientation-black .white.queen,
       .pocket-top piece.white.queen,
       .spare-top piece.white.queen {
   background-image: url("")!important;
+}
+
+.is2d .white.king {
+  background-image: url("")!important;
+}
+.cg-wrap.orientation-black .white.king,
+.spare-top piece.white.king {
+    background-image:url("")!important;
 }
 
 .is2d .black.king {
