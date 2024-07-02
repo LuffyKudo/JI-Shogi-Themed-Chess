@@ -6,7 +6,7 @@
 - Board and pieces included
 - Works with all variants
 - Works with matches, puzzles, analysis and board editor
-- Only available in 2D
+- Available in 2D
 
 You can read more about JI Shogi-Themed Chess including instructions on how to install it at:
 
