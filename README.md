@@ -13,7 +13,7 @@ You can read more about JI Shogi-Themed Chess including instructions on how to i
 [![Static Badge](https://img.shields.io/badge/JI-Shogi--Themed_Chess-blue?logo=wordpress)](https://luffykudo.wordpress.com/2021/04/28/shogi-themed-chess-japanized-western-chess/)
 
 # Screenshots
-| Screenshot | Description |
+| Screenshot | Caption |
 |---|---|
 | <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/lichess-2-kanji-screenshot.png" alt="JI Shogi-Themed Chess 2-Kanji Lichess Screenshot Jemierry J.I. Maglinte Jumawan LuffyKudo Evergreen Game Adolf Anderssen Jean Dufresne" width="360"/> | **JI Shogi-Themed Chess on Lichess** <br> (2-Kanji) |
 | <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/lichess-1-kanji-screenshot.png" alt="JI Shogi-Themed Chess 1-Kanji Lichess Screenshot Jemierry J.I. Maglinte Jumawan LuffyKudo Immortal Game Adolf Anderssen Lionel Kieseritzky" width="360"/> | **JI Shogi-Themed Chess on Lichess** <br> (1-Kanji) |
