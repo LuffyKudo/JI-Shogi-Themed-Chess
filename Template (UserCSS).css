@@ -1,0 +1,195 @@
+/* ==UserStyle==
+@name           JI Shogi-Themed Chess
+@version        1.0.0
+@namespace      https://github.com/LuffyKudo/JI-Shogi-Themed-Chess
+@description    Play chess using shogi's board and pieces on Lichess.org!
+@author         LuffyKudo
+@homepageURL    https://luffykudo.wordpress.com/2021/04/28/shogi-themed-chess-japanized-western-chess
+@supportURL     https://github.com/LuffyKudo/JI-Shogi-Themed-Chess/issues
+@updateURL      https://raw.githubusercontent.com/LuffyKudo/JI-Shogi-Themed-Chess/main/Lichess.user.styl
+@license        CC BY-SA 4.0
+@preprocessor   stylus
+@var select kanji "Kanji Style" {
+    "2-Kanji":"2kanji",
+    "1-Kanji":"1kanji"
+}
+@var select kings "Kings Style" {
+    "Jewel-King":"jewelKing",
+    "King-Jewel":"kingJewel",
+    "Double Jewel":"jewel",
+    "Double King":"king"    
+}
+==/UserStyle== */
+
+@-moz-document domain("lichess.org") {
+
+.is2d .white.pawn,
+      .cg-wrap.orientation-black .black.pawn,
+      .pocket-bottom piece.black.pawn,
+      .spare-bottom piece.black.pawn {
+    background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+.is2d .black.pawn,
+      .cg-wrap.orientation-black .white.pawn,
+      .pocket-top piece.white.pawn,
+      .spare-top piece.white.pawn {
+  background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+.is2d .white.knight,
+      .cg-wrap.orientation-black .black.knight,
+      .pocket-bottom piece.black.knight,
+      .spare-bottom piece.black.knight {
+  background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+.is2d .black.knight,
+      .cg-wrap.orientation-black .white.knight,
+      .pocket-top piece.white.knight,
+      .spare-top piece.white.knight {
+  background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+.is2d .white.bishop,
+      .cg-wrap.orientation-black .black.bishop,
+      .pocket-bottom piece.black.bishop,
+      .spare-bottom piece.black.bishop {
+  background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+.is2d .black.bishop,
+      .cg-wrap.orientation-black .white.bishop,
+      .pocket-top piece.white.bishop,
+      .spare-top piece.white.bishop {
+  background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+.is2d .white.rook,
+      .cg-wrap.orientation-black .black.rook,
+      .pocket-bottom piece.black.rook,
+      .spare-bottom piece.black.rook {
+  background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+.is2d .black.rook,
+      .cg-wrap.orientation-black .white.rook,
+      .pocket-top piece.white.rook,
+      .spare-top piece.white.rook {
+  background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+.is2d .white.queen,
+      .cg-wrap.orientation-black .black.queen,
+      .pocket-bottom piece.black.queen,
+      .spare-bottom piece.black.queen {
+  background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+.is2d .black.queen,
+      .cg-wrap.orientation-black .white.queen,
+      .pocket-top piece.white.queen,
+      .spare-top piece.white.queen {
+  background-image: url("")!important;
+if kanji == "1kanji" {
+    background-image: url("")!important;
+}}
+
+jewel2 = ""
+jewel1 = ""
+king2 = ""
+king1 = ""
+jewel2180 = ""
+jewel1180 = ""
+king2180 = ""
+king1180 = ""
+
+.is2d .white.king {
+if kings == "jewel" or kings == "jewelKing" {
+    if kanji == "2kanji" {
+        background-image: url(jewel2)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(jewel1)!important;
+}}
+if kings == "king" or kings == "kingJewel" {
+    if kanji == "2kanji" {
+        background-image: url(king2)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(king1)!important;
+}}}
+
+.cg-wrap.orientation-black .white.king,
+.spare-top piece.white.king {
+if kings == "jewel" or kings == "jewelKing" {
+    if kanji == "2kanji" {
+        background-image: url(jewel2180)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(jewel1180)!important;
+}}
+if kings == "king" or kings == "kingJewel" {
+    if kanji == "2kanji" {
+        background-image: url(king2180)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(king1180)!important;
+}}}
+
+.is2d .black.king {
+if kings == "king" or kings == "jewelKing" {
+    if kanji == "2kanji" {
+        background-image: url(king2180)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(king1180)!important;
+}}
+if kings == "jewel" or kings == "kingJewel" {
+    if kanji == "2kanji" {
+        background-image: url(jewel2180)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(jewel1180)!important;
+}}}
+
+.cg-wrap.orientation-black .black.king,
+.spare-bottom piece.black.king {
+if kings == "king" or kings == "jewelKing" {
+    if kanji == "2kanji" {
+        background-image: url(king2)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(king1)!important;
+}}
+if kings == "jewel" or kings == "kingJewel" {
+    if kanji == "2kanji" {
+        background-image: url(jewel2)!important;
+}
+    if kanji == "1kanji" {
+        background-image: url(jewel1)!important;
+}}}
+
+
+.is2d cg-board::before {
+  background-image: url("https://raw.githubusercontent.com/LuffyKudo/JI-Shogi-Themed-Chess/main/Board.png")!important;
+}
+}
