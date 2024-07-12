@@ -10,7 +10,7 @@
 
 ## Features
 
-### Features for Full or Merged Version
+### Full/Merged Version
 
 - Select either 2-Kanji (*default*) or 1-Kanji style from Settings.
 - Choose between four Kings Style:
@@ -21,7 +21,7 @@
 
 ![JI Shogi-Themed Chess stylus setting LuffyKudo](https://luffykudo.wordpress.com/wp-content/uploads/2024/07/ji-shogi-themed-chess-stylus-settings.png)
 
-### Feature for 2-Kanji and 1-Kanji Individual Versions
+### Individual 2-Kanji and 1-Kanji Versions
 - Choose between four Kings Style:
   - Jewel-King (White has the Jewel while black has the King) [*default*]
   - King-Jewel (White has the King while black has the jewel)
