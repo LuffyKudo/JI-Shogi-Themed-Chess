@@ -69,47 +69,55 @@
   background-image: url("")!important;
 }
 
+/* Use for 2-Kanji */
+
+jewel2 = ""
+king2 = ""
+king2180 = ""
+jewel2180 = ""
+
+/* Use for 1-Kanji */
+
+jewel1 = ""
+king1 = ""
+jewel1180 = ""
+king1180 = ""
+
 .is2d .white.king {
-  background-image: url("")!important;
+if kings == "jewel" or kings == "jewelKing" {
+    background-image: url(jewel2)!important;
 }
+if kings == "king" or kings == "kingJewel" {
+    background-image: url(king2)!important;
+}}   
+   
 .cg-wrap.orientation-black .white.king,
 .spare-top piece.white.king {
-    background-image:url("")!important;
+if kings == "jewel" or kings == "jewelKing" {
+    background-image: url(jewel2180)!important;
 }
+if kings == "king" or kings == "kingJewel" {
+    background-image: url(king2180)!important;
+}}
 
 .is2d .black.king {
-  background-image: url("")!important;
+if kings == "king" or kings == "jewelKing" {
+    background-image: url(king2180)!important;
 }
+if kings == "jewel" or kings == "kingJewel" {
+    background-image: url(jewel2180)!important;
+}}
+
 .cg-wrap.orientation-black .black.king,
 .spare-bottom piece.black.king {
-    background-image:url("")!important;
+if kings == "king" or kings == "jewelKing" {
+    background-image: url(king2)!important;
 }
+if kings == "jewel" or kings == "kingJewel" {
+    background-image: url(jewel2)!important;
+}}
 
-body[data-board=brown] .is2d cg-board::before,
-body[data-board=wood] .is2d cg-board::before,
-body[data-board=wood2] .is2d cg-board::before,
-body[data-board=wood3] .is2d cg-board::before,
-body[data-board=wood4] .is2d cg-board::before,
-body[data-board=maple] .is2d cg-board::before,
-body[data-board=maple2] .is2d cg-board::before,
-body[data-board=horsey] .is2d cg-board::before,
-body[data-board=leather] .is2d cg-board::before,
-body[data-board=blue] .is2d cg-board::before,
-body[data-board=blue2] .is2d cg-board::before,
-body[data-board=blue3] .is2d cg-board::before,
-body[data-board=canvas] .is2d cg-board::before,
-body[data-board=blue-marble] .is2d cg-board::before,
-body[data-board=ic] .is2d cg-board::before,
-body[data-board=green] .is2d cg-board::before,
-body[data-board=marble] .is2d cg-board::before,
-body[data-board=green-plastic] .is2d cg-board::before,
-body[data-board=olive] .is2d cg-board::before,
-body[data-board=grey] .is2d cg-board::before,
-body[data-board=metal] .is2d cg-board::before,
-body[data-board=newspaper] .is2d cg-board::before,
-body[data-board=purple] .is2d cg-board::before,
-body[data-board=purple-diag] .is2d cg-board::before,
-body[data-board=pink] .is2d cg-board::before {
-  background-image: url("")!important;
+.is2d cg-board::before {
+  background-image: url("https://raw.githubusercontent.com/LuffyKudo/JI-Shogi-Themed-Chess/main/Board.png")!important;
 }
 }
