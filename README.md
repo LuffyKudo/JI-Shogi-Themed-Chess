@@ -8,9 +8,31 @@
 - Works with matches, puzzles, analysis and board editor
 - Available in 2D
 
-You can read more about JI Shogi-Themed Chess including instructions on how to install it at:
+## Features
 
-[![Static Badge](https://img.shields.io/badge/JI-Shogi--Themed_Chess-blue?logo=wordpress)](https://luffykudo.wordpress.com/2021/04/28/shogi-themed-chess-japanized-western-chess/)
+### Features for full or merged version:
+
+- Select either 2-Kanji (*default*) or 1-Kanji style from Settings.
+- Choose between four Kings Style:
+  - Jewel-King (White has the Jewel while black has the King) [*default*]
+  - King-Jewel (White has the King while black has the jewel)
+  - Double Jewel (both have Jewels)
+  - Double King (both have Kings)
+
+![JI Shogi-Themed Chess stylus setting LuffyKudo](https://luffykudo.wordpress.com/wp-content/uploads/2024/07/ji-shogi-themed-chess-stylus-settings.png)
+
+### Feature for 2-Kanji and 1-Kanji individual versions.
+- Choose between four Kings Style:
+  - Jewel-King (White has the Jewel while black has the King) [*default*]
+  - King-Jewel (White has the King while black has the jewel)
+  - Double Jewel (both have Jewels)
+  - Double King (both have Kings)
+
+## Installation
+
+For instructions on how to install it, kindly visit
+
+[![Static Badge](https://img.shields.io/badge/How_to_Install-JI_Shogi--Themed_Chess-blue?logo=wordpress)](https://luffykudo.wordpress.com/2021/04/28/shogi-themed-chess-japanized-western-chess/#instructions)
 
 ## Screenshots
 | Screenshot | Caption |
