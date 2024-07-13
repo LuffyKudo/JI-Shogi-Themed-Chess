@@ -25,8 +25,8 @@
 - Created [GitHub repository](https://github.com/LuffyKudo/JI-Shogi-Themed-Chess) for JI Shogi-Themed Chess.
 - Updated code to work with Lichess' updated codes.
 ## 2021-05-01
-- Created and released [1-Kanji version](https://userstyles.org/styles/202656/lichess-ji-shogi-themed-chess-1-kanji) userstyle for Lichess on Stylish.
+- Created and released [1-Kanji version](https://userstyles.org/styles/202656/lichess-ji-shogi-themed-chess-1-kanji) userstyle for Lichess on Stylish (USO).
 ## 2021-04-30
-- Created and released [2-Kanji version](https://userstyles.org/styles/202618/lichess-ji-shogi-themed-chess-2-kanji) userstyle for Lichess on Stylish.
+- Created and released [2-Kanji version](https://userstyles.org/styles/202618/lichess-ji-shogi-themed-chess-2-kanji) userstyle for Lichess on Stylish (USO).
 ## 2021-04-28
 - Created [JI Shogi-Themed Chess](https://luffykudo.wordpress.com/2021/04/28/shogi-themed-chess-japanized-western-chess/).
