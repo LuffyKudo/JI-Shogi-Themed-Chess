@@ -44,7 +44,7 @@ For instructions on how to install it, kindly visit
 
 I also created the Doubutsu Chess theme. You can check it at:
 
-[![Static Badge](https://img.shields.io/badge/GitHub-Doubutsu_Chess-0096ff?logo=github)](https://github.com/LuffyKudo/Doubutsu-Chess/tree/main)
+[![Static Badge](https://img.shields.io/badge/GitHub-Doubutsu_Chess-0096ff?logo=github)](https://github.com/LuffyKudo/Doubutsu-Chess/)
 
 ## License
 - <p xmlns:cc="http://creativecommons.org/ns#" >JI Shogi-Themed Chess is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
