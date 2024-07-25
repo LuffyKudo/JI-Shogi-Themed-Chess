@@ -15,9 +15,9 @@
 - Select either 2-Kanji (*default*) or 1-Kanji style from Settings.
 - Choose between four Kings Style:
   - Jewel-King (White has the Jewel while black has the King) [*default*]
-  - King-Jewel (White has the King while black has the jewel)
-  - Double Jewel (both have Jewels)
-  - Double King (both have Kings)
+  - King-Jewel (White has the King while black has the Jewel)
+  - Double Jewel (both have the Jewels)
+  - Double King (both have the Kings)
 
 ![JI Shogi-Themed Chess stylus setting LuffyKudo](https://luffykudo.wordpress.com/wp-content/uploads/2024/07/ji-shogi-themed-chess-stylus-settings.png)
 
