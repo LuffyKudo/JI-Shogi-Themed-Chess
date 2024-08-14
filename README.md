@@ -1,10 +1,10 @@
 # JI Shogi-Themed Chess (Japanized Western Chess)
 
-[Shogi](https://en.wikipedia.org/wiki/Shogi) (Japanese Chess) is the Japanese cousin of western chess and now you can play chess using shogi's board and pieces on Lichess. 
+[Shogi](https://en.wikipedia.org/wiki/Shogi) (Japanese Chess) is the Japanese cousin of western chess and now you can play chess using shogi's board and pieces on Lichess and Chess.com! 
 
 - Available in 2-Kanji and 1-Kanji versions
 - Board and pieces included
-- Works with all variants
+- Works with all variants on Lichess
 - Works with matches, puzzles, analysis and board editor
 - Available in 2D
 
@@ -21,7 +21,7 @@
 
 ![JI Shogi-Themed Chess stylus setting LuffyKudo](https://luffykudo.wordpress.com/wp-content/uploads/2024/07/ji-shogi-themed-chess-stylus-settings.png)
 
-### Individual 2-Kanji and 1-Kanji Versions
+### Individual 2-Kanji and 1-Kanji Versions (Lichess only)
 - Choose between four Kings Style:
   - Jewel-King (White has the Jewel while black has the King) [*default*]
   - King-Jewel (White has the King while black has the jewel)
@@ -35,10 +35,11 @@ For instructions on how to install it, kindly visit
 [![Static Badge](https://img.shields.io/badge/How_to_Install-JI_Shogi--Themed_Chess-blue?logo=wordpress)](https://luffykudo.wordpress.com/2021/04/28/shogi-themed-chess-japanized-western-chess/#instructions)
 
 ## Screenshots
+Below are some screenshots on Lichess and Chess.com:
 | Screenshot | Caption |
 |---|---|
-| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/lichess-2-kanji-screenshot.png" alt="JI Shogi-Themed Chess 2-Kanji Lichess Screenshot Jemierry J.I. Maglinte Jumawan LuffyKudo Evergreen Game Adolf Anderssen Jean Dufresne" width="360"/> | **JI Shogi-Themed Chess on Lichess** <br> (2-Kanji) |
-| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/lichess-1-kanji-screenshot.png" alt="JI Shogi-Themed Chess 1-Kanji Lichess Screenshot Jemierry J.I. Maglinte Jumawan LuffyKudo Immortal Game Adolf Anderssen Lionel Kieseritzky" width="360"/> | **JI Shogi-Themed Chess on Lichess** <br> (1-Kanji) |
+| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/lichess-2-kanji-screenshot.png" alt="JI Shogi-Themed Chess 2-Kanji Lichess Screenshot Jemierry J.I. Maglinte Jumawan LuffyKudo Evergreen Game Adolf Anderssen Jean Dufresne" width="360"/> <br> <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/lichess-1-kanji-screenshot.png" alt="JI Shogi-Themed Chess 1-Kanji Lichess Screenshot Jemierry J.I. Maglinte Jumawan LuffyKudo Immortal Game Adolf Anderssen Lionel Kieseritzky" width="360"/>| **JI Shogi-Themed Chess on Lichess** <br> - 2-Kanji <br> - 1-Kanji |
+| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/chesscom-2-kanji-screenshot.jpg" alt="JI Shogi-Themed Chess 2-Kanji chess.com Screenshot Jemierry J.I. Maglinte Jumawan LuffyKudo Evergreen Game Adolf Anderssen Jean Dufresne" width="360"/> <br> <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/08/chesscom-1-kanji-screenshot.jpg" alt="JI Shogi-Themed Chess 1-Kanji chess.com Screenshot Jemierry J.I. Maglinte Jumawan LuffyKudo Immortal Game Adolf Anderssen Lionel Kieseritzky" width="360"/>| **JI Shogi-Themed Chess on Chess.com** <br> - 2-Kanji <br> - 1-Kanji |
 
 ## Other Theme for Chess
 
