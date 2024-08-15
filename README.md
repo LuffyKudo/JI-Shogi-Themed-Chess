@@ -57,4 +57,4 @@ I also created the Doubutsu Chess theme. You can check it at:
 - 奔 character used for queen was modified from [Lishogi's Chu Shogi Ryoko_1Kanji](https://github.com/WandererXII/lishogi/blob/master/public/piece/Chu_Ryoko_1Kanji/0_QUEEN.svg) licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## 
-*Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lichess.org](https://lichess.org).*
+*Created using the [Stylus browser extension](https://add0n.com/stylus.html) for [Lichess.org](https://lichess.org) and [Chess.com](https://www.chess.com).*
