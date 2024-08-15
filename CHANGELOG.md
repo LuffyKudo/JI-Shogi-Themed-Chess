@@ -6,17 +6,17 @@
 ## 2024-08-11
 - Created JI Shogi-Themed Chess for Chess.com
 
+## 2024-07-13
+- Discontinued updates and support for the Stylish releases:
+  - [2-Kanji version](https://userstyles.org/styles/202618/lichess-ji-shogi-themed-chess-2-kanji)
+  - [1-Kanji version](https://userstyles.org/styles/202656/lichess-ji-shogi-themed-chess-1-kanji)
+
 ## 2024-07-12 (2-Kanji v20240704.06.13.1 and 1-Kanji v20240704.06.55.1)
 - Added option to select between four Kings Style:
   - Jewel-King (White has the Jewel while black has the King) [*default*]
   - King-Jewel (White has the King while black has the jewel)
   - Double Jewel (both have Jewels)
   - Double King (both have Kings)
-
-## 2024-07-13
-- Discontinued updates and support for the Stylish releases:
-  - [2-Kanji version](https://userstyles.org/styles/202618/lichess-ji-shogi-themed-chess-2-kanji)
-  - [1-Kanji version](https://userstyles.org/styles/202656/lichess-ji-shogi-themed-chess-1-kanji)
 
 ## 2024-07-11 (JI Shogi-Themed Chess on Lichess v1.0.0)
 - Created and released [JI Shogi-Themed Chess v1.0.0](https://userstyles.world/style/17187/) (full or merged version) for Lichess on Userstyles.world (USw) with the following features:
