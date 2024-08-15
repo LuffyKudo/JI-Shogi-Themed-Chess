@@ -2,6 +2,8 @@
 
 [Shogi](https://en.wikipedia.org/wiki/Shogi) (Japanese Chess) is the Japanese cousin of western chess and now you can play chess using shogi's board and pieces on Lichess and Chess.com! 
 
+<img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/07/pieces-3.png" alt="JI Shogi-Themed Chess Pieces King Queen Rook Bishop Knight Pawn Japanese Japanized by Jemierry J.I. Maglinte Jumawan LuffyKudo" width="720"/>
+
 - Available in 2-Kanji and 1-Kanji versions
 - Board and pieces included
 - Works with all variants on Lichess
